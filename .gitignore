@@ -107,4 +107,4 @@ dist
 .vscode-test
 
 #Environment variables
-app-env
+.env
